@@ -1,0 +1,8 @@
+{
+  "name": "Safe place",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ce7022ac"
+}
